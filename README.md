@@ -9,3 +9,7 @@ Judging vs Perceiving(acc-72.2%).
 
 
 All the preprocessing graphs and outcome graphs being there in file
+
+
+
+Dataset link: https://www.kaggle.com/datasets/datasnaek/mbti-type?resource=download
